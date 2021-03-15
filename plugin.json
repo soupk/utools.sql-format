@@ -1,0 +1,14 @@
+{
+    "pluginName": "SQL格式化工具",
+    "version": "0.0.1",
+    "description": "SQL格式化工具",
+    "author": "KQ.ZHONG",
+    "main": "index.html",
+    "features": [
+	    {
+			"code": "cut",
+			"explain": "SQL",
+	        "cmds":["sql", "格式化"]
+	    }
+	]
+}
